@@ -1,3 +1,2 @@
-# Analytics Engineers Club
 
-:wave: Katie's portfolio
+:wave: Katie's Portfolio 

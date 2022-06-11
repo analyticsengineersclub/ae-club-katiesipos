@@ -30,3 +30,4 @@ select
 from customer_orders
 inner join first_order
  on customer_orders.customer_id = first_order.customer_id
+limit 5
